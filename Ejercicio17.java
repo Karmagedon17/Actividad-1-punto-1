@@ -7,7 +7,7 @@ public class Ejercicio17 {
         System.out.println("Ingrese el radio de su circulo:");
         radio = entrada.nextDouble();
         System.out.println("El area del circulo es: "+radio*radio*Math.PI);        
-        System.out.println("La longitud de la circunferencia es: "+radio*Math.PI);    
+        System.out.println("La longitud de la circunferencia es: "+radio*2*Math.PI);    
     }
     
 }
